@@ -1,0 +1,6 @@
+# CMake build directories
+/build/
+/build-*/
+
+# Locally compiled executable left in the source directory
+/src/vector
